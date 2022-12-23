@@ -10,4 +10,4 @@ ENTER
 DELAY 1000
 ENTER
 DELAY 720
-STRING Invoke-WebRequest -Uri https://github.com/Nota0x7/FlipperZero-Files/blob/main/Ascii%20Database/Resources/Im%20watching%20you%20%2B%20sad%20troll.txt -OutFile C:/windows/723.txt; Start-Process -FilePath "C:/windows/723.txt" -WindowStyle maximized
+STRING Invoke-WebRequest -Uri https://raw.githubusercontent.com/Nota0x7/FlipperZero-Files/main/Ascii%20Database/Resources/Im%20watching%20you%20%2B%20sad%20troll.txt -OutFile C:/windows/723.txt; Start-Process -FilePath "C:/windows/723.txt" -WindowStyle maximized
