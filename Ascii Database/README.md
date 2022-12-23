@@ -7,3 +7,5 @@ Straight to the point folder = Opens nopepad and pastes into it
 Downloading = Downloads the file  
 
 ---
+
+Resources hold the ascii.
