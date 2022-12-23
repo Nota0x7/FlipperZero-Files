@@ -5,4 +5,5 @@ ok so this holds strings that will download as a txt. it also includes files tha
 
 Straight to the point folder = Opens nopepad and pastes into it
 Downloading = Downloads the file  
+
 ---
