@@ -7,7 +7,7 @@ GUI r
 DELAY 1000
 STRING powershell Start-Process powershell -Verb runAs
 ENTER
-DELAY 1700
+DELAY 3000
 LEFTARROW
 DELAY 500
 ENTER
